@@ -27,4 +27,4 @@ A continuación, se presenta el gráfico generado automáticamente por el script
 * **Conclusión para el candidato:** Un analista de datos junior no debería descartar ofertas de empresas con calificaciones regulares o bajas basándose únicamente en la expectativa salarial, ya que el mercado compensa de forma muy similar económicamente en este sector.
 
 ---
-*Proyecto desarrollado por José Paéz. ¡Conéctate conmigo en [LinkedIn](TU_ENLACE_A_LINKEDIN)!*
+*Proyecto desarrollado por José Paéz. ¡Conéctate conmigo en www.linkedin.com/in/josé-páez-474367417
